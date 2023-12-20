@@ -1,1 +1,1 @@
-# ROI-Guided-Attention-Learning-for-Remote-Sensing-Image-Retrieval
+# Attention-Learning-for-Remote-Sensing-Image-Retrieval
